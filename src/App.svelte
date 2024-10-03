@@ -12,8 +12,8 @@ import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from 'flowbite-svelte';
   <NavUl >
     <NavLi href="/">Home</NavLi>
     <NavLi href="/about">About</NavLi>
-    <NavLi href="/docs/components/navbar">Navbar</NavLi>
-    <NavLi href="/pricing">Pricing</NavLi>
-    <NavLi href="/contact">Contact</NavLi>
+    <NavLi href="/docs/components/navbar">Yvone mang may layang lumipad</NavLi>
+    <NavLi href="/pricing">hotdog</NavLi>
+    <NavLi href="/contact">sausage</NavLi>
   </NavUl>
 </Navbar>
