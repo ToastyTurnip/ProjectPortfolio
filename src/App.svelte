@@ -1,7 +1,6 @@
 <script>
 import "./app.css";
 import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from 'flowbite-svelte';
-import LandingPage from "./lib/LandingPage.svelte";
 </script>
 
 <Navbar>
