@@ -17,3 +17,7 @@ import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from 'flowbite-svelte';
     <NavLi href="/contact">sausage</NavLi>
   </NavUl>
 </Navbar>
+
+<body>
+mamaaaaa just killed a man
+</body>
