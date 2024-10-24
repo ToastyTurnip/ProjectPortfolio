@@ -1,0 +1,1 @@
+import{w as a}from"./writeAndUnwriteText-ULJMzB-E.js";import{a as s,m}from"./animationSetup-CbaMB19-.js";import"./writeEffect-EZVhJVMf.js";import"./unwriteEffect-Cw6G21wI.js";import"./index-BFzoBLIJ.js";const u=async(t,e)=>{const{options:o,elements:i}=s(t,e);for(;;){m(t);for(const r of i)await a(r,o)}return{update(){},destroy(){}}};export{u as default};
