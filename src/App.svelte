@@ -6,6 +6,8 @@ import imgUrl2 from "./assets/parallax2.jpg";
 import pdfUrl from './assets/Amador_Joshua_resume.pdf?url';
 import imgUrlresume from "./assets/Amador_Joshua_resume.jpg";
 import Typewriter from "svelte-typewriter";
+import Xpsection from "./lib/xpsection.svelte";
+import Bentotest from "./lib/bentotest.svelte";
 
 function scrollIntoView({ target }) {
 		const el = document.querySelector(target.getAttribute('href'));
@@ -162,8 +164,12 @@ function scrollIntoView({ target }) {
   </div>
 </section>
 
-<div class="parallax1 min-h-screen" style="background-image: url('{imgUrl1}')">
-</div>
+<!-- <div class="parallax1 min-h-screen" style="background-image: url('{imgUrl1}')">
+</div> -->
+
+<Xpsection />
+
+<Bentotest />
 
 <section class="bg-white dark:bg-gray-900 antialiased">
   <div class="max-w-screen-xl px-4 py-8 mx-auto lg:px-6 sm:py-16 lg:py-24">
