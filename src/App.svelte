@@ -169,13 +169,13 @@ function scrollIntoView({ target }) {
 
 <Xpsection />
 
-<Bentotest />
+<!-- <Bentotest /> -->
 
 <section class="bg-white dark:bg-gray-900 antialiased">
   <div class="max-w-screen-xl px-4 py-8 mx-auto lg:px-6 sm:py-16 lg:py-24">
     <div class="max-w-2xl mx-auto text-center">
       <h2 class="text-3xl font-extrabold leading-tight tracking-tight text-gray-900 sm:text-4xl dark:text-white">
-        🚧 Portfolio WIP 🚧
+        🚧 Portfolio (WIP) 🚧
       </h2>
       <p class="mt-4 text-base font-normal text-gray-500 sm:text-xl dark:text-gray-400">
         Portfolio coming soon!
